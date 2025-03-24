@@ -10,13 +10,13 @@ Provided in csv files
 
 **Power Bi**: for visualizations and customer trends
 ## outputs
-### Buisness Wise
+### Buisness Wise:
 **customer trends**
 
 **business insights**
 
 **targeted marketing and campaigns**
-### modeling
+### modeling:
 **XGBoost Model:** recommending countries for users based on their behaviour
 
 
