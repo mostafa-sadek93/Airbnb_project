@@ -24,11 +24,11 @@ Provided in csv files
 
 ## outputs
 ### Buisness Wise Documented in Presentaion showing:
-**1-customer trends**
+- **customer trends**
 
-**2-business insights**
+- **business insights**
 
-**3-targeted marketing and campaigns**
+- **targeted marketing and campaigns**
 ### modeling:
 **XGBoost Model:** recommending countries for users based on their behaviour
 
