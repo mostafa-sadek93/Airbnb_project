@@ -4,13 +4,13 @@ Airbnb Case study to identify customer trends related to travelling , driving bu
 ## Data 
 Provided in csv files
 ## Tools Used
-**Excel sheets**: to store files
+**1-Excel sheets**: to store files
 
-**jupyter Notebook**: for data pre-preocessing and XGBoost model
+**2-jupyter Notebook**: for data pre-preocessing and XGBoost model
 
-**Power Bi**: for visualizations and customer trends
+**3-Power Bi**: for visualizations and customer trends
 
-**power Point**: showing business Recommendations and charts
+**4-power Point**: showing business Recommendations and charts
 
 ## Power Bi Dashboards
 
@@ -23,13 +23,13 @@ Provided in csv files
 4-**Affiliation**: Showing different affiliation methodologies and providing business insights
 
 ## outputs
-### Buisness Wise Documented in Presentaion showing:
+### 1-Buisness Wise Documented in Presentaion showing:
 - **customer trends**
 
 - **business insights**
 
 - **targeted marketing and campaigns**
-### modeling:
+### 2-modeling:
 **XGBoost Model:** recommending countries for users based on their behaviour
 
 
