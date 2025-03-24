@@ -23,7 +23,7 @@ Provided in csv files
 4-**Affiliation**: Showing different affiliation methodologies and providing business insights
 
 ## outputs
-### Buisness Wise:Documented in Presentaion showing:
+### Buisness Wise Documented in Presentaion showing:
 **1-customer trends**
 
 **2-business insights**
